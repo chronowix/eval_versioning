@@ -1,7 +1,7 @@
 const books = [
   {
-    "title": "Le Petit Prince",
-    "author": "Antoine de Saint-Exupéry"
+    "title": "Ils étaient dix",
+    "author": "Agatha Christie"
   },
   {
     "title": "1984",
