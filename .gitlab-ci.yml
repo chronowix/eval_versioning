@@ -1,0 +1,9 @@
+build-job:
+  stage: build
+  script:
+    - echo "$GITLAB_USER_LOGIN"
+
+test-job:
+  stage: test
+  script:
+    - echo "$CI_COMMIT_BRANCH"
